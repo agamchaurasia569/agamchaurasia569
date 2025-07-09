@@ -70,6 +70,6 @@
 
 ---
 
-## 🐍 Contribution Snake (Fixed)
+## 🐍 Contribution Snake
 ![snake gif](https://github.com/agamchaurasia569/agamchaurasia569/blob/output/github-snake-dark.svg)
 
