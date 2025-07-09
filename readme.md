@@ -71,5 +71,5 @@
 ---
 
 ## 🐍 Contribution Snake (Fixed)
+![snake gif](https://github.com/agamchaurasia569/agamchaurasia569/blob/output/github-snake-dark.svg)
 
-![snake gif](https://github.com/agamchaurasia569/agamchaurasia569/blob/output/github-contribution-grid-snake-dark.svg)
